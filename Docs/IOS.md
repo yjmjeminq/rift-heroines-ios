@@ -33,3 +33,11 @@ Releases에 입력 ZIP을 업로드한 뒤 `Build Rift Heroines iPhone IPA` 워�
 2026-11-06 로컬 검증: 모델 465개 검사와 8개 캠페인 통과. 2532×1170 / 안전 영역 (132, 63, 2268, 1107)의 숨김 플레이어에서 양 진영 출격, 큰 각성·일시정지 메뉴, 12번째 동료 선택, 카드 전체 터치, 목표·구매 저장, 잔액 부족 차단, 다음 출정 특성 적용과 화면 경계 검사를 통과했습니다. 새로 생성한 UI도 오프스크린 렌더링 후 Unity GraphicRaycaster로 버튼 가림 여부를 확인하고 내부 포인터 이벤트를 보냅니다.
 
 추가로 2048×1447의 넓은 화면에서도 같은 터치 검사를 통과했고, 기존 1600×900 플레이어의 양 진영 2회 완주 및 편의성·훈련·타격 UI·공방 검증도 통과했습니다. Xcode 내보내기는 오류 0개로 완료됐습니다. Unity 내부 GUI 셰이더의 Windows D3D11 경고 2개는 내보내기 로그에 남아 있습니다.
+
+## 완성된 시험판
+
+[IPA 다운로드](https://github.com/yjmjeminq/rift-heroines-ios/releases/download/v0.9.0-ios.1/RiftHeroines-iPhone-unsigned-v0.9.0.ipa) · [릴리스와 검증 보고서](https://github.com/yjmjeminq/rift-heroines-ios/releases/tag/v0.9.0-ios.1) · [성공한 Mac 빌드](https://github.com/yjmjeminq/rift-heroines-ios/actions/runs/42155560229).
+
+IPA는 64,429,010바이트이며 SHA256은 `4e219295766b37d569827e53ba1050b58fc8737c9e00dea0c10be0cfece4de0b`입니다. 소스 태그 `v0.9.0-ios.1`은 `fd7ebc61cf720af7773f9004e831e4f8474d90fb` 커밋을 가리킵니다. Mac 빌드 성공 후 내려받은 파일의 GitHub 자산 해시, 체크섬 파일, ARM64 iOS 실기기 실행 파일 두 개, 버전 0.9.0(1), 가로 방향, 실행 권한과 Unity 게임 데이터 8개의 일치 여부를 다시 확인했습니다.
+
+로컬 파일은 `Builds/Artifacts/RiftHeroines-iPhone-unsigned-v0.9.0.ipa`이고 같은 폴더에 설치 안내와 검증 보고서를 보관합니다. 실기기 설치·플레이 여부는 아직 검증되지 않았습니다.
