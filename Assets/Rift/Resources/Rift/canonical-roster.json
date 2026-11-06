@@ -1,0 +1,138 @@
+{
+  "version": "0.9.0",
+  "checkedDate": "2026-11-05",
+  "characters": [
+    {
+      "id": "sakura",
+      "displayName": "사쿠라",
+      "canonicalName": "하루노 사쿠라",
+      "originalName": "春野サクラ",
+      "franchise": "NARUTO",
+      "faction": 0,
+      "sourceUrl": "https://naruto-official.com/en/news/01_1743",
+      "sourceName": "Sakura Haruno",
+      "appearance": "보루토 성인 시점"
+    },
+    {
+      "id": "tsunade",
+      "displayName": "츠나데",
+      "canonicalName": "츠나데",
+      "originalName": "綱手",
+      "franchise": "NARUTO",
+      "faction": 0,
+      "sourceUrl": "https://naruto-official.com/en/special/wallpaper",
+      "sourceName": "Tsunade",
+      "appearance": "성인 원작 인물"
+    },
+    {
+      "id": "hinata",
+      "displayName": "히나타",
+      "canonicalName": "휴우가 히나타",
+      "originalName": "日向ヒナタ",
+      "franchise": "NARUTO",
+      "faction": 0,
+      "sourceUrl": "https://naruto-official.com/en/special/wallpaper",
+      "sourceName": "Hinata Hyuga",
+      "appearance": "보루토 성인 시점"
+    },
+    {
+      "id": "ino",
+      "displayName": "이노",
+      "canonicalName": "야마나카 이노",
+      "originalName": "山中いの",
+      "franchise": "NARUTO",
+      "faction": 0,
+      "sourceUrl": "https://naruto-official.com/en/special/wallpaper",
+      "sourceName": "Ino Yamanaka",
+      "appearance": "보루토 성인 시점"
+    },
+    {
+      "id": "temari",
+      "displayName": "테마리",
+      "canonicalName": "테마리",
+      "originalName": "テマリ",
+      "franchise": "NARUTO",
+      "faction": 0,
+      "sourceUrl": "https://naruto-official.com/en/special/wallpaper",
+      "sourceName": "Temari",
+      "appearance": "보루토 성인 시점"
+    },
+    {
+      "id": "konan",
+      "displayName": "코난",
+      "canonicalName": "코난",
+      "originalName": "小南",
+      "franchise": "NARUTO",
+      "faction": 0,
+      "sourceUrl": "https://naruto-official.com/en/special/wallpaper",
+      "sourceName": "Konan",
+      "appearance": "성인 원작 인물"
+    },
+    {
+      "id": "rangiku",
+      "displayName": "란기쿠",
+      "canonicalName": "마츠모토 란기쿠",
+      "originalName": "松本乱菊",
+      "franchise": "BLEACH",
+      "faction": 1,
+      "sourceUrl": "https://bleach-ros.bn-ent.net/character/?chara=rangiku-matsumoto",
+      "sourceName": "Rangiku Matsumoto",
+      "appearance": "성인 원작 인물"
+    },
+    {
+      "id": "yoruichi",
+      "displayName": "요루이치",
+      "canonicalName": "시호인 요루이치",
+      "originalName": "四楓院夜一",
+      "franchise": "BLEACH",
+      "faction": 1,
+      "sourceUrl": "https://bleach-ros.bn-ent.net/character/?chara=yoruichi-shihoin",
+      "sourceName": "Yoruichi Shihoin",
+      "appearance": "성인 원작 인물"
+    },
+    {
+      "id": "unohana",
+      "displayName": "우노하나",
+      "canonicalName": "우노하나 레츠",
+      "originalName": "卯ノ花烈",
+      "franchise": "BLEACH",
+      "faction": 1,
+      "sourceUrl": "https://www.bleach-bravesouls.com/character/unohana.html",
+      "sourceName": "Retsu Unohana",
+      "appearance": "성인 원작 인물"
+    },
+    {
+      "id": "rukia",
+      "displayName": "루키아",
+      "canonicalName": "쿠치키 루키아",
+      "originalName": "朽木ルキア",
+      "franchise": "BLEACH",
+      "faction": 1,
+      "sourceUrl": "https://www.bleach-bravesouls.com/character/rukia.html",
+      "sourceName": "Rukia Kuchiki",
+      "appearance": "완결 이후 성인 대장·어머니 시점"
+    },
+    {
+      "id": "orihime",
+      "displayName": "오리히메",
+      "canonicalName": "이노우에 오리히메",
+      "originalName": "井上織姫",
+      "franchise": "BLEACH",
+      "faction": 1,
+      "sourceUrl": "https://www.bleach-bravesouls.com/character/orihime.html",
+      "sourceName": "Orihime Inoue",
+      "appearance": "완결 이후 성인 어머니 시점"
+    },
+    {
+      "id": "soifon",
+      "displayName": "소이폰",
+      "canonicalName": "소이폰",
+      "originalName": "砕蜂",
+      "franchise": "BLEACH",
+      "faction": 1,
+      "sourceUrl": "https://www.bleach-bravesouls.com/character/soifon.html",
+      "sourceName": "Soi Fon",
+      "appearance": "성인 원작 인물"
+    }
+  ]
+}

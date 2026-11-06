@@ -1,0 +1,26 @@
+{
+  "version": "0.7.0",
+  "tool": "built-in image_gen",
+  "mode": "generate new environment images using a style/layout reference",
+  "reference": "Assets/Rift/Resources/Rift/Art/moonbridge.png",
+  "environments": [
+    {
+      "id": "stormshrine",
+      "name": "폭풍의 산문",
+      "prompt": "Use case: stylized-concept. Asset type: a finished 2D side-scrolling Unity defense-game battlefield background. Input image is a STYLE AND GAMEPLAY-LAYOUT REFERENCE ONLY. Create a different environment, matching the reference's polished anime game background painting, crisp architecture, layered distant scenery, saturated cool night palette with controlled warm accents, and clear readable foreground. WIDE 16:9 landscape composition. The combat walkway must be straight, unobstructed, and horizontal across the ENTIRE width: its flat surface occupies 65% through 76% of image height measured from the top, with the characters' feet baseline at 73%. Keep that geometry nearly identical to the reference so existing side-view sprites stand naturally on it. No people, characters, creatures, vehicles, HUD, text, labels, logos or watermarks. Leave the middle of the walkway and the entire center battle space open. Put ornate architecture at the far left and right margins and deep scenery behind it; do not add obstacles on the floor. No huge effects covering combatants. Scene: a ruined mountaintop shrine pass in a distant violet thunderstorm, after the heroes have crossed the moon bridge. Cracked dark stone walkway with subtle wet reflections, worn red torii and amber lanterns on the far left, pale jade and blue spirit shrine pillars and a misty gate on the far right. Behind the clear battle lane: receding stone stairs, enormous ancient cedars, mountains swallowed by rolling violet clouds, a few thin distant lightning branches high in the sky, windswept autumn leaves at the edges. Rich purple-indigo, teal and warm amber, elegant dramatic depth. The platform is intact and usable, even though the distant buildings are weathered. Rain stays a delicate atmosphere in the distance, without strong foreground streaks. Original background artwork, no borrowed game UI.",
+      "finalAsset": "Assets/Rift/Resources/Rift/Stages/stormshrine.png",
+      "generatedSource": "C:/Users/y/.codex/generated_images/01a1aaaa-cc27-7a83-881f-b1bf6e501737/exec-f9b06c09-aa8d-4f54-9480-39b9631128a6.png",
+      "selected": "First generated candidate, full image, no bitmap modifications",
+      "generatedSourceSha256": "26c6d2f8f7a0414e9c3191c296a778fc75e18fb542ac5dd75e105070e22d952a"
+    },
+    {
+      "id": "eclipsecitadel",
+      "name": "백야의 성채",
+      "prompt": "Use case: stylized-concept. Asset type: a finished 2D side-scrolling Unity defense-game battlefield background. Input image is a STYLE AND GAMEPLAY-LAYOUT REFERENCE ONLY. Create a different environment, matching the reference's polished anime game background painting, crisp architecture, layered distant scenery, saturated cool night palette with controlled warm accents, and clear readable foreground. WIDE 16:9 landscape composition. The combat walkway must be straight, unobstructed, and horizontal across the ENTIRE width: its flat surface occupies 65% through 76% of image height measured from the top, with the characters' feet baseline at 73%. Keep that geometry nearly identical to the reference so existing side-view sprites stand naturally on it. No people, characters, creatures, vehicles, HUD, text, labels, logos or watermarks. Leave the middle of the walkway and the entire center battle space open. Put ornate architecture at the far left and right margins and deep scenery behind it; do not add obstacles on the floor. No huge effects covering combatants. Scene: the final celestial spirit citadel at a luminous golden eclipse, a strikingly different late-campaign destination. A broad level pale stone bridge-courtyard across the lower foreground, with its walking band in the same 65%-76% vertical region as the reference. At far left: elegant burgundy shrine gate with gilded details and a few red maple branches. At far right: a towering ivory, cobalt and gold spirit palace gate with luminous blue runes that are abstract shapes, not readable writing. In the deep background: floating tiered palace islands, distant waterfalls suspended in mist, luminous shards and soft clouds, a large white-gold eclipse in the upper sky and violet-blue celestial haze. Triumphant, mysterious atmosphere; strong silhouette separation and gentle readable floor lighting. No destruction or clutter on the battle lane, no giant central object. Original background artwork, no borrowed game UI.",
+      "finalAsset": "Assets/Rift/Resources/Rift/Stages/eclipsecitadel.png",
+      "generatedSource": "C:/Users/y/.codex/generated_images/01a1aaaa-cc27-7a83-881f-b1bf6e501737/exec-a9fedf49-3f01-4b80-afe3-a195f80b5ac0.png",
+      "selected": "First generated candidate, full image, no bitmap modifications",
+      "generatedSourceSha256": "f3472bcd32474f47c6b86f05a3f933f3f8c409cc170d38ab7bd887fee1ea6a16"
+    }
+  ]
+}
